@@ -384,6 +384,7 @@ export const esOverrides = {
     off: 'Desactivado'
   },
   fileMenu: {
+    openWithApp: 'Abrir con la aplicación predeterminada',
     revealFinder: 'Mostrar en Finder',
     revealExplorer: 'Mostrar en el Explorador de archivos',
     revealFileManager: 'Abrir carpeta contenedora',

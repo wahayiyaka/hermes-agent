@@ -381,6 +381,7 @@ export const deOverrides = {
     off: 'Aus'
   },
   fileMenu: {
+    openWithApp: 'Mit Standard-App öffnen',
     revealFinder: 'Im Finder anzeigen',
     revealExplorer: 'Im Datei-Explorer anzeigen',
     revealFileManager: 'Enthaltenden Ordner öffnen',

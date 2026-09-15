@@ -382,6 +382,7 @@ export const frOverrides = {
     off: 'Désactivé'
   },
   fileMenu: {
+    openWithApp: "Ouvrir avec l'application par défaut",
     revealFinder: 'Afficher dans le Finder',
     revealExplorer: "Afficher dans l'Explorateur de fichiers",
     revealFileManager: 'Ouvrir le dossier parent',
